@@ -4,9 +4,9 @@ from sklearn import svm
 from sklearn.model_selection import train_test_split
 from sklearn import metrics
 
-diabetesdataset = datasets.load_wine()
-x = diabetesdataset.data[:,:2]
-y = diabetesdataset.target
+winedataset = datasets.load_wine()
+x = winedataset.data[:,:2]
+y = winedataset.target
 
 h=0.3
 xmin, xmax = x[:, 0].min() - 1, x[:, 0].max() + 1
