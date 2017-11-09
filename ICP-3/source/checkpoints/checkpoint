@@ -1,6 +1,0 @@
-model_checkpoint_path: "skip-gram-49999"
-all_model_checkpoint_paths: "skip-gram-45999"
-all_model_checkpoint_paths: "skip-gram-46999"
-all_model_checkpoint_paths: "skip-gram-47999"
-all_model_checkpoint_paths: "skip-gram-48999"
-all_model_checkpoint_paths: "skip-gram-49999"
