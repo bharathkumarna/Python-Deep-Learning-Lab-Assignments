@@ -1,0 +1,1 @@
+multi-class-text-classification-cnn-master/trained_model_1510896524/checkpoints

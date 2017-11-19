@@ -1,0 +1,3 @@
+model_checkpoint_path: "C:\\GitHub\\Deep-Learning\\Assignment\\Deep Learning Assignment - 2\\Source\\runs\\1511034152\\checkpoints\\model-400"
+all_model_checkpoint_paths: "C:\\GitHub\\Deep-Learning\\Assignment\\Deep Learning Assignment - 2\\Source\\runs\\1511034152\\checkpoints\\model-200"
+all_model_checkpoint_paths: "C:\\GitHub\\Deep-Learning\\Assignment\\Deep Learning Assignment - 2\\Source\\runs\\1511034152\\checkpoints\\model-400"

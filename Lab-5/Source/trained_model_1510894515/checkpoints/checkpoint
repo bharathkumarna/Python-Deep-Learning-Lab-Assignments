@@ -1,0 +1,3 @@
+model_checkpoint_path: "C:\\Users\\balaj\\Desktop\\multi-class-text-classification-cnn-master\\multi-class-text-classification-cnn-master\\trained_model_1510894515\\checkpoints\\model-400"
+all_model_checkpoint_paths: "C:\\Users\\balaj\\Desktop\\multi-class-text-classification-cnn-master\\multi-class-text-classification-cnn-master\\trained_model_1510894515\\checkpoints\\model-200"
+all_model_checkpoint_paths: "C:\\Users\\balaj\\Desktop\\multi-class-text-classification-cnn-master\\multi-class-text-classification-cnn-master\\trained_model_1510894515\\checkpoints\\model-400"
